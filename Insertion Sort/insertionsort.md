@@ -8,7 +8,7 @@
    - [2, 6, 16, 18, 22, 27] (n-4)(değişiklik olmadı çünkü kalan sayılarda en küçük sayı zaten sıralıydı.)
 
  * Big-O gösterimini yazınız. 
-    - O(n^2)
+    - O(n²)
  * Time Complexity: 
   - Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 

@@ -12,6 +12,6 @@ www.patika.dev
  
 ---
  * Big-O gösterimini yazınız. 
-     - O(nlogn)
+     - O(n logn)
 ---
  

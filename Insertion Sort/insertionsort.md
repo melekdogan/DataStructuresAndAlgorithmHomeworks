@@ -7,7 +7,7 @@ www.patika.dev
    - [2, 6, 16, 22, 18, 27] (n-2) (değişiklik olmadı çünkü kalan sayılarda en küçük sayı zaten sıralıydı.)
    - [2, 6, 16, *18, *22, 27] (n-3)
    - [2, 6, 16, 18, 22, 27] (n-4)(değişiklik olmadı çünkü kalan sayılarda en küçük sayı zaten sıralıydı.)
-
+---
  * Big-O gösterimini yazınız. 
      - O(n²)
  * Time Complexity: 
